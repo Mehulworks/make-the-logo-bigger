@@ -1,0 +1,14 @@
+{
+  "name": "make-the-logo-bigger",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A short film about how the designer's role changed from 1990 to today, rendered from a single HTML page.",
+  "type": "module",
+  "scripts": {
+    "build": "./tools/build.sh",
+    "render": "node tools/render.mjs"
+  },
+  "devDependencies": {
+    "playwright": "1.63.0"
+  }
+}

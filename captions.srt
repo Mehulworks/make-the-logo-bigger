@@ -1,0 +1,115 @@
+1
+00:00:00,600 --> 00:00:01,800
+[The client] Can you make the logo bigger?
+
+2
+00:00:01,900 --> 00:00:03,900
+It started with one request.
+
+3
+00:00:04,600 --> 00:00:07,000
+[The client, by fax] Can you make the logo bigger?
+
+4
+00:00:09,400 --> 00:00:13,400
+Saved across 3 floppy disks. Disk 2 is missing.
+
+5
+00:00:14,600 --> 00:00:17,000
+[The client, by email] Can we add an intro?
+
+6
+00:00:17,200 --> 00:00:20,800
+The intro was longer than the website.
+
+7
+00:00:21,000 --> 00:00:23,200
+[A visitor using a screen reader] What does this page say?
+
+8
+00:00:23,400 --> 00:00:27,200
+Read aloud, the homepage said: “image, image, image.”
+
+9
+00:00:28,600 --> 00:00:31,000
+[The client] Does it work on my phone?
+
+10
+00:00:31,200 --> 00:00:34,800
+It fit on the phone. You needed tweezers to tap it.
+
+11
+00:00:35,000 --> 00:00:37,200
+[Someone on a bus, one hand free] I can’t hit the button.
+
+12
+00:00:37,400 --> 00:00:41,200
+One hand. Moving bus. Tiny button. Design for that.
+
+13
+00:00:42,600 --> 00:00:45,000
+[The client] Can it look the same everywhere?
+
+14
+00:00:45,200 --> 00:00:48,800
+Approved by the design system committee. Next meeting: Q3.
+
+15
+00:00:49,000 --> 00:00:51,200
+[Someone with low vision] I can’t read the grey text.
+
+16
+00:00:51,400 --> 00:00:55,200
+Thin grey text on white. Elegant. Unreadable.
+
+17
+00:00:56,600 --> 00:00:59,000
+[The client] Can I get edit access?
+
+18
+00:00:59,200 --> 00:01:02,800
+The client is in the file now.
+
+19
+00:01:03,000 --> 00:01:05,200
+[People invited to test it] We left some notes.
+
+20
+00:01:05,400 --> 00:01:09,200
+Then we invited the people we were designing for.
+
+21
+00:01:10,600 --> 00:01:13,000
+[The client] Can’t AI just do this?
+
+22
+00:01:13,200 --> 00:01:16,800
+AI made 48 versions in 0.8 seconds.
+
+23
+00:01:17,000 --> 00:01:19,200
+[Automated accessibility check] Low contrast: 40. Alt text says “image”: 26. Pass: 2.
+
+24
+00:01:19,400 --> 00:01:23,200
+Two worked for everyone. The designer knew which two.
+
+25
+00:01:25,000 --> 00:01:29,400
+[The client] Love it. Can you make the logo bigger?
+
+26
+00:01:29,600 --> 00:01:33,300
+Some requests never change.
+
+27
+00:01:35,200 --> 00:01:39,000
+The requests kept changing. The job kept growing.
+
+28
+00:01:41,600 --> 00:01:44,000
+The job isn’t finished.
+
+29
+00:01:44,400 --> 00:01:49,600
+Captions were made for deaf and hard-of-hearing viewers. You just read a whole video of them.
