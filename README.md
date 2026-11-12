@@ -118,7 +118,7 @@ Every date and figure on screen was checked against a primary source.
 | --- | --- |
 | Photoshop 1.0 ships February 1990; Windows April 1993 | [Creative Bloq](https://www.creativebloq.com/adobe/history-photoshop-12052724), [Dr. Dobb's](https://www.drdobbs.com/from-darkroom-to-desktop-how-photoshop/184412598) |
 | Dreamweaver 1.0 ships 1997 | [Network World](https://www.networkworld.com/article/728042/applications-adobe-creative-suite-the-history.html) |
-| WCAG 1.0 becomes a W3C Recommendation, May 1999 | [W3C](https://www.w3.org/TR/WCAG20/) |
+| WCAG 1.0 becomes a W3C Recommendation, May 1999 | [W3C](https://www.w3.org/TR/WAI-WEBCONTENT/) |
 | VoiceOver ships on the iPhone 3GS, June 2009 | [Apple Newsroom](https://www.apple.com/newsroom/2009/06/08Apple-Announces-the-New-iPhone-3GS-The-Fastest-Most-Powerful-iPhone-Yet/) |
 | "Responsive web design" coined, May 2010 | [A List Apart, via Zeldman](https://zeldman.com/2010/05/25/responsive-web-design) |
 | Atomic Design, 2013 | [Design Systems Collective](https://www.designsystemscollective.com/a-short-history-of-the-design-system-11aa0c277771) |
